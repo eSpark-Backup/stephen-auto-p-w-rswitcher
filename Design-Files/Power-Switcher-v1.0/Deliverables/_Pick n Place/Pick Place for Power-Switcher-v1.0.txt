@@ -1,0 +1,46 @@
+Altium Designer Pick and Place Locations
+D:\eSpark-Consultants\GitHub\stephen-autoPWRswitcher\Design-Files\Power-Switcher-v1.0\Project Outputs for Power-Switcher-v1.0\Pick Place for Power-Switcher-v1.0.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       15/07/25
+Time:       17:30
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Center-X(mm) Center-Y(mm) Layer    Rotation Ref-X(mm) Ref-Y(mm) Pad-X(mm) Pad-Y(mm) 
+C1         35.4157mm    39.8745mm    TopLayer 0        35.4157mm 39.8745mm 34.9458mm 39.8745mm 
+C2         46.6930mm    36.8520mm    TopLayer 0        46.6930mm 36.8520mm 45.4230mm 36.8520mm 
+C3         35.4157mm    9.0366mm     TopLayer 0        35.4157mm 9.0366mm  34.9458mm 9.0366mm  
+C4         46.6938mm    6.0148mm     TopLayer 0        46.6938mm 6.0148mm  45.4238mm 6.0148mm  
+D1         42.9190mm    54.8860mm    TopLayer 180      42.9190mm 54.8860mm 44.0690mm 54.8860mm 
+D2         28.5750mm    40.9160mm    TopLayer 180      28.5750mm 40.9160mm 30.5750mm 40.9160mm 
+D3         46.1010mm    39.9000mm    TopLayer 180      46.1010mm 39.9000mm 48.0010mm 39.9000mm 
+D4         42.9190mm    24.0480mm    TopLayer 180      42.9190mm 24.0480mm 44.0690mm 24.0480mm 
+D5         28.5770mm    10.1460mm    TopLayer 180      28.5770mm 10.1460mm 30.5770mm 10.1460mm 
+D6         46.1010mm    9.0620mm     TopLayer 180      46.1010mm 9.0620mm  48.0010mm 9.0620mm  
+J1         9.7790mm     45.3380mm    TopLayer 270      9.7790mm  45.3380mm 9.7790mm  51.8380mm 
+J2         70.7390mm    29.9190mm    TopLayer 270      70.7390mm 29.9190mm 70.7390mm 36.4190mm 
+J3         9.7790mm     14.5000mm    TopLayer 270      9.7790mm  14.5000mm 9.7790mm  21.0000mm 
+Q1         47.7190mm    50.2339mm    TopLayer 270      47.7190mm 50.2339mm 44.0690mm 52.6339mm 
+Q2         33.5610mm    46.6440mm    TopLayer 90       33.5610mm 46.6440mm 37.2110mm 44.2440mm 
+Q3         47.7190mm    19.3959mm    TopLayer 270      47.7190mm 19.3959mm 44.0690mm 21.7959mm 
+Q4         24.9647mm    3.9496mm     TopLayer 0        24.9647mm 3.9496mm  24.0147mm 2.9496mm  
+Q5         33.5610mm    15.8060mm    TopLayer 90       33.5610mm 15.8060mm 37.2110mm 13.4060mm 
+R1         34.4170mm    54.8860mm    TopLayer 180      34.4170mm 54.8860mm 35.1790mm 54.8860mm 
+R2         37.9730mm    42.1860mm    TopLayer 180      37.9730mm 42.1860mm 38.7350mm 42.1860mm 
+R3         37.9861mm    39.8745mm    TopLayer 0        37.9861mm 39.8745mm 37.2241mm 39.8745mm 
+R4         24.9647mm    38.4188mm    TopLayer 90       24.9647mm 38.4188mm 24.9647mm 37.6568mm 
+R5         25.7267mm    35.8360mm    TopLayer 180      25.7267mm 35.8360mm 26.4887mm 35.8360mm 
+R6         29.3370mm    35.8360mm    TopLayer 0        29.3370mm 35.8360mm 28.5750mm 35.8360mm 
+R7         34.4170mm    24.0481mm    TopLayer 180      34.4170mm 24.0481mm 35.1790mm 24.0481mm 
+R8         24.9647mm    7.5808mm     TopLayer 270      24.9647mm 7.5808mm  24.9647mm 8.3428mm  
+R9         23.6047mm    7.5808mm     TopLayer 90       23.6047mm 7.5808mm  23.6047mm 6.8188mm  
+R10        24.9647mm    1.3936mm     TopLayer 180      24.9647mm 1.3936mm  25.7267mm 1.3936mm  
+R11        37.9730mm    11.3480mm    TopLayer 180      37.9730mm 11.3480mm 38.7350mm 11.3480mm 
+R12        37.9861mm    9.0365mm     TopLayer 0        37.9861mm 9.0365mm  37.2241mm 9.0365mm  
+R13        29.3369mm    4.9979mm     TopLayer 0        29.3369mm 4.9979mm  28.5749mm 4.9979mm  
+U1         30.5750mm    37.8680mm    TopLayer 180      30.5750mm 37.8680mm 32.0228mm 37.3680mm 
+U2         30.5750mm    7.0300mm     TopLayer 180      30.5750mm 7.0300mm  32.0228mm 6.5300mm  
